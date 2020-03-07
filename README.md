@@ -3,6 +3,8 @@ some tech links
 
 *wyf到此一游*
 
+*lrq到此一游*
+
 
 
 #### Deformation
@@ -29,4 +31,4 @@ some tech links
 ---
 
 - [ProBuilder](https://unity3d.com/cn/unity/features/worldbuilding/probuilder)
-
+- [3D rigging with C4D](https://www.bilibili.com/video/av19838171?p=2)
