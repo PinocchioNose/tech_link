@@ -13,9 +13,16 @@ some tech links
 
 - [Deform tool](https://github.com/keenanwoodall/Deform)
 
+-  [ragdoll](https://www.youtube.com/watch?v=DInV-jHm9rk)
 
 
+- [mesh deformation](https://assetstore.unity.com/packages/tools/physics/b-soft-body-deformation-53378)
 
+- [convex collider](https://assetstore.unity.com/packages/tools/utilities/convex-collider-creator-pro-131644)
+
+- [jelly effect](https://www.youtube.com/watch?v=tTdKEJpX2HI)
+
+  
 
 #### 建模
 
